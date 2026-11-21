@@ -180,3 +180,11 @@
   border: 8px solid #4f46e5;
   border-radius: 50%;
 }
+.time {
+  font-weight: 700;
+  color: #4f46e5;
+}
+
+.time.low {
+  color: #ef4444;
+}
